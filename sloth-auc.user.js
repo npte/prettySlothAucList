@@ -103,7 +103,8 @@
 		"RESTRICTIONS_MAGE" : "Ma",
 		"RESTRICTIONS_NECROMANCER" : "Ne",
 		"RESTRICTIONS_DRUID" : "Dr",
-		"RESTRICTIONS_CLERIC" : "Cl"
+		"RESTRICTIONS_CLERIC" : "Cl",
+		"RESTRICTIONS_AVATAR" : "Av"
 	}
 	function searchItemByName(name) {
 		for (var i = 0; i < eqlistLength; i++) {
